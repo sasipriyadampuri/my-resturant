@@ -1,1 +1,1 @@
-# my-resturant
+# my-restaurant
